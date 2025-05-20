@@ -5,15 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron ."
-  },
-  "repository": "https://github.com/anth82bg/electron-quick-start",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
-  ],
+  },  
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
